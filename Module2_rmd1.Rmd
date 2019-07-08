@@ -3,8 +3,8 @@ title: "Module2 - R Markdown Document 1"
 author: "PSP-I"
 date: "1 July 2019"
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
   word_document: default
 editor_options:
   chunk_output_type: console
